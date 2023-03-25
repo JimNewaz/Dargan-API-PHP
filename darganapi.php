@@ -37,7 +37,7 @@
         CURLOPT_CUSTOMREQUEST => "GET",
         CURLOPT_HTTPHEADER => [
             "X-RapidAPI-Host: dargan.p.rapidapi.com",
-            "X-RapidAPI-Key: 8664e10961msh6fff650ca55b7aap1d0e51jsndfd4c5638df5"
+            "X-RapidAPI-Key: <Use your API KEY Here>"
         ],
     ]);
 
