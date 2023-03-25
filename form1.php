@@ -52,7 +52,9 @@
                 </div>
                 
                 <br>
-                <button class="btn btn-primary btn-sm text-center">Submit</button>
+
+                <input type="submit" class="btn btn-primary btn-sm" value="submit">
+                
               </form>
             </div>
       </div>
